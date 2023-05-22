@@ -1,2 +1,2 @@
-# github.io
+# luckhitech.github.io
 Luckhitech website homepage
