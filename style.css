@@ -235,7 +235,7 @@ section .do-me .do-inner:hover i{
 /* End what_i_do.css */
 /* background.css */
 .bg{
-  background:url('./화분1.png') center center;
+  background:url('./메인화분.jpg') center center;
   background-size:cover;
   background-attachment:fixed;
   height:650px;
